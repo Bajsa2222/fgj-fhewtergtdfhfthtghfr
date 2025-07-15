@@ -1,5 +1,4 @@
 {
-  "version": "1.4",
-  "changelog": "Added new dino generator and bug fixes.",
-  "download_url": "https://your.github.io/mytool/latest.py"
+  "version": "1.1.0",
+  "exe_url": "https://example.com/path/to/ArkAdminTool.exe"
 }
