@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "valid_codes": [
-    "DEMO-CODE-2024",
+
     "TEST-ACCESS-001",
     "ARK-SCAN-XYZ",
 
-    "6TTHFTHFHT",
+
     "NEW-CODE-JAN2026"
   ],
   "message": "Access granted! Welcome to the scanner."
